@@ -1,0 +1,20 @@
+{
+  "name": "diagram-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.11",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1",
+    "reactflow": "^11.19.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
